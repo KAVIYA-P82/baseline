@@ -1,0 +1,248 @@
+{
+    "Bull": [
+        {
+            "quarter": "Q1",
+            "forecast_sales": 193
+        },
+        {
+            "quarter": "Q2",
+            "forecast_sales": 201
+        },
+        {
+            "quarter": "Q3",
+            "forecast_sales": 224
+        },
+        {
+            "quarter": "Q4",
+            "forecast_sales": 227
+        },
+        {
+            "quarter": "Q5",
+            "forecast_sales": 238
+        },
+        {
+            "quarter": "Q6",
+            "forecast_sales": 246
+        },
+        {
+            "quarter": "Q7",
+            "forecast_sales": 243
+        },
+        {
+            "quarter": "Q8",
+            "forecast_sales": 230
+        },
+        {
+            "quarter": "Q9",
+            "forecast_sales": 282
+        },
+        {
+            "quarter": "Q10",
+            "forecast_sales": 261
+        },
+        {
+            "quarter": "Q11",
+            "forecast_sales": 257
+        },
+        {
+            "quarter": "Q12",
+            "forecast_sales": 315
+        },
+        {
+            "quarter": "Q13",
+            "forecast_sales": 293
+        },
+        {
+            "quarter": "Q14",
+            "forecast_sales": 325
+        },
+        {
+            "quarter": "Q15",
+            "forecast_sales": 304
+        },
+        {
+            "quarter": "Q16",
+            "forecast_sales": 316
+        },
+        {
+            "quarter": "Q17",
+            "forecast_sales": 359
+        },
+        {
+            "quarter": "Q18",
+            "forecast_sales": 342
+        },
+        {
+            "quarter": "Q19",
+            "forecast_sales": 348
+        },
+        {
+            "quarter": "Q20",
+            "forecast_sales": 380
+        }
+    ],
+    "Base": [
+        {
+            "quarter": "Q1",
+            "forecast_sales": 155
+        },
+        {
+            "quarter": "Q2",
+            "forecast_sales": 162
+        },
+        {
+            "quarter": "Q3",
+            "forecast_sales": 181
+        },
+        {
+            "quarter": "Q4",
+            "forecast_sales": 183
+        },
+        {
+            "quarter": "Q5",
+            "forecast_sales": 192
+        },
+        {
+            "quarter": "Q6",
+            "forecast_sales": 198
+        },
+        {
+            "quarter": "Q7",
+            "forecast_sales": 196
+        },
+        {
+            "quarter": "Q8",
+            "forecast_sales": 186
+        },
+        {
+            "quarter": "Q9",
+            "forecast_sales": 227
+        },
+        {
+            "quarter": "Q10",
+            "forecast_sales": 210
+        },
+        {
+            "quarter": "Q11",
+            "forecast_sales": 207
+        },
+        {
+            "quarter": "Q12",
+            "forecast_sales": 254
+        },
+        {
+            "quarter": "Q13",
+            "forecast_sales": 236
+        },
+        {
+            "quarter": "Q14",
+            "forecast_sales": 262
+        },
+        {
+            "quarter": "Q15",
+            "forecast_sales": 245
+        },
+        {
+            "quarter": "Q16",
+            "forecast_sales": 255
+        },
+        {
+            "quarter": "Q17",
+            "forecast_sales": 289
+        },
+        {
+            "quarter": "Q18",
+            "forecast_sales": 275
+        },
+        {
+            "quarter": "Q19",
+            "forecast_sales": 280
+        },
+        {
+            "quarter": "Q20",
+            "forecast_sales": 306
+        }
+    ],
+    "Bear": [
+        {
+            "quarter": "Q1",
+            "forecast_sales": 150
+        },
+        {
+            "quarter": "Q2",
+            "forecast_sales": 157
+        },
+        {
+            "quarter": "Q3",
+            "forecast_sales": 175
+        },
+        {
+            "quarter": "Q4",
+            "forecast_sales": 177
+        },
+        {
+            "quarter": "Q5",
+            "forecast_sales": 185
+        },
+        {
+            "quarter": "Q6",
+            "forecast_sales": 192
+        },
+        {
+            "quarter": "Q7",
+            "forecast_sales": 189
+        },
+        {
+            "quarter": "Q8",
+            "forecast_sales": 180
+        },
+        {
+            "quarter": "Q9",
+            "forecast_sales": 220
+        },
+        {
+            "quarter": "Q10",
+            "forecast_sales": 204
+        },
+        {
+            "quarter": "Q11",
+            "forecast_sales": 201
+        },
+        {
+            "quarter": "Q12",
+            "forecast_sales": 246
+        },
+        {
+            "quarter": "Q13",
+            "forecast_sales": 228
+        },
+        {
+            "quarter": "Q14",
+            "forecast_sales": 253
+        },
+        {
+            "quarter": "Q15",
+            "forecast_sales": 237
+        },
+        {
+            "quarter": "Q16",
+            "forecast_sales": 247
+        },
+        {
+            "quarter": "Q17",
+            "forecast_sales": 280
+        },
+        {
+            "quarter": "Q18",
+            "forecast_sales": 267
+        },
+        {
+            "quarter": "Q19",
+            "forecast_sales": 271
+        },
+        {
+            "quarter": "Q20",
+            "forecast_sales": 296
+        }
+    ]
+}
